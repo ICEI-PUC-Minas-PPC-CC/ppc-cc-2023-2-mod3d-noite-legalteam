@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# MODELAGEM 3D TAREFA 04 2023
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -6,14 +6,12 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Matheus Piza Batiston
+- Gabriel Alencar
 
 ## Professor
 
-- Mestre Yoda
+- Will Ricardo dos Santos Machado
 
 # Documentação
 
