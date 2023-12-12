@@ -17,10 +17,10 @@
 
 Foi escolhido pela dupla dentre os Temas 1 - Tarefa 4: o Pilar. Este, criado e produzito por Gabriel Alencar, (acrescentar detalhes aqui) [...]
 
-Já nos dentre os Temas 2- Tarefa 4, resolvemos fazer a criação de uma face do 2D para o 3D!. Esta, feita por Matheus Piza através de 04 fotos próprias de ângulos diferentes e a ferramenta "FaceBuilder" do Blender.
+Já nos dentre os Temas 2- Tarefa 4, resolvemos fazer a criação de uma face do 2D para o 3D! Esta, feita por Matheus Piza através de 04 fotos próprias de ângulos diferentes e a ferramenta "FaceBuilder" do Blender.
 Onde Matheus modelou a face de acordo com as fotos da maneira que ficasse o mais coerente possível! Gerando assim, nosso resultado final!
 
 
-# Apresentação
+# Videos
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+Todos os arquivos de video estão na aba de SRC como pedido pelo professor.
